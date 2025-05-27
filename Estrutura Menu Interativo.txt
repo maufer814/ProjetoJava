@@ -1,0 +1,50 @@
+Menu Principal - Sistema de Vendas
+
+
+1. Cadastro
+Cliente
+
+Funcionário
+
+Produto
+
+	1.1 Excluir
+		Cliente 
+		
+		Funcionário
+		
+		Produto
+
+==========================================================================
+
+2. Buscar
+Cliente
+
+Funcionário
+
+Produto
+
+
+============================================================================
+
+3. Análises
+Cliente Mais Velho
+
+Cliente Mais Jovem
+
+Produto Mais Caro
+
+Produto Mais Barato
+
+
+==============================================================================
+
+4. Relatórios
+Clientes Acima de 60 Anos
+
+Clientes Abaixo de 18 Anos
+
+Média de Preço dos Produtos
+
+================================================================================
+5. Sair
